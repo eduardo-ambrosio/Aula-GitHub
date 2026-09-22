@@ -1,3 +1,7 @@
 teste testando
+<<<<<<< HEAD
 teste 2 
 mudei ali e aqui
+=======
+teste 2 mudando aqui
+>>>>>>> 03699673c5feb79e24ffc80c3ba41f49fca4dea2
